@@ -5,3 +5,5 @@ Rules and Gameplay adapted from this archive [link](http://web.archive.org/web/2
 
 
 [This](https://docs.google.com/spreadsheets/d/1RIuAiVVTHDf63rVZyJDMhRWgIkl3lfeoc5x6ANbSi6w/edit?usp=sharing) is the initial setup for the game board.
+
+![Startup board](./QuadrantZ.png)
